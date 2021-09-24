@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Dosis&family=Josefin+Sans:ital,wght@1,500&display=swap');
+
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+body {
+    background-color: gray;
+}
+.ali {
+    text-align: center;
+    font-size: 130%;
+}
+.hakim {
+    line-height: 30%;
+}
+.book {
+    line-height: 5%;
+}
+.gambar {
+    text-align: center;
+}
+.gambar>.ukuran-gambar {
+    width: 135px;
+    height: 210px;
+    border-radius: 100%;
+}
+.kim {
+    background-color: rgb(60, 61, 134);
+    max-width: 100%;
+}
